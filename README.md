@@ -1,9 +1,9 @@
 **Site criado para praticar o Git**
 
-Organização de Branches:
-**main** &rarr; branch principal
-**dev** &rarr; branch de desenvolvimento
-**pre-prod** &rarr; branch de homologação
+Organização de Branches: <br>
+**main** &rarr; branch principal <br>
+**dev** &rarr; branch de desenvolvimento <br>
+**pre-prod** &rarr; branch de homologação <br>
 
 Branches de Funcionalidades:
 * feat/func-a
