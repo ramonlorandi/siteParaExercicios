@@ -6,4 +6,22 @@
 body {
     background-color: #212529;
     color: #f4f5f7;
+    padding-top: 1.5rem;
+    padding-inline: 3rem;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h2 {
+    font-size: 4rem;
+}
+
+header a {
+    color: #f4f5f7;
+    text-decoration: none;
 }
