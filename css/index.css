@@ -24,4 +24,23 @@ header h2 {
 header a {
     color: #f4f5f7;
     text-decoration: none;
+    font-size: 1.125rem;
+    padding-left: 1rem;
+}
+
+header a:hover {
+    font-weight: bold;
+}
+
+main {
+    margin-top: 2rem;
+}
+
+main h1 {
+    font-size: 2.5rem;
+}
+
+main p {
+    margin-top: 1rem;
+    font-size: 1.25rem;
 }
